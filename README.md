@@ -1,0 +1,2 @@
+# mapetitor
+Maps your competitor
